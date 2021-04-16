@@ -1,0 +1,28 @@
+{
+  "name": "nodejsestudos",
+  "version": "1.0.0",
+  "description": "Estudos relacionados ao nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedrocabera/NodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "mogobd"
+  ],
+  "author": "Pedro Henrique Alves Costa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pedrocabera/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Pedrocabera/NodeJS#readme"
+}
